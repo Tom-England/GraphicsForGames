@@ -5184,6 +5184,10 @@ PrefabInstance:
       value: 53.7
       objectReference: {fileID: 0}
     - target: {fileID: 319269454795195102, guid: 573ac53c334415945bf239de2c2f0511, type: 3}
+      propertyPath: m_VolumetricDimmer
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 319269454795195102, guid: 573ac53c334415945bf239de2c2f0511, type: 3}
       propertyPath: m_EnableSpotReflector
       value: 1
       objectReference: {fileID: 0}
